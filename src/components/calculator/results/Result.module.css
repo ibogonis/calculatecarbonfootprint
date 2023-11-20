@@ -1,0 +1,29 @@
+.text {
+    font-family: ABeeZee;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+      }
+        
+    .header {
+    color: rgba(0, 0, 0, 1);
+    font-family: ABeeZee;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    }
+    
+    .description {
+    color: rgba(0, 0, 0, 1);
+    font-family: ABeeZee;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    }

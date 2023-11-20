@@ -1,0 +1,42 @@
+.greenBlock {
+    background: rgba(47, 141, 57, 1);
+    padding: 30px 0px;
+  }
+  .whiteBlock {
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+   }
+   .headerCalc {
+    background-color: rgba(170, 200, 86, 1);
+    border-radius: 10px 10px 0px 0px;
+  }
+  .headerCalculator {
+    font-family: Montserrat;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  padding: 10px;
+  }
+  .calcBlock {
+    border-radius: 0px 0px 10px 10px;
+  }
+  .greenBackground {
+    background: rgba(47, 141, 57, 1);
+  
+  }
+
+  .header {
+    font-family: ABeeZee;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 44px;
+    }
+    .whiteText {
+        color: rgba(255, 255, 255, 1);
+      }
+      .margin50 {
+        margin-bottom: 50px;
+      }

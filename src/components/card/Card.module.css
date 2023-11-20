@@ -1,0 +1,22 @@
+.card {
+    padding: 80px 79px;
+    
+  }
+
+.header {
+    font-family: ABeeZee;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 44px;
+    font-style: italic;
+    color: rgba(0, 0, 0, 1); 
+    }
+
+.text {
+        font-family: ABeeZee;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        letter-spacing: 0em;
+        color: rgba(0, 0, 0, 1);
+        }
